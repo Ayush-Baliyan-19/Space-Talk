@@ -1,0 +1,71 @@
+.sun a img{
+    position:fixed;
+    top: 50%;
+    left: 47%;
+    width: 1vw;
+}
+/* #mercury img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 3vw;
+    padding: 1vw;
+    border: 1px white solid;
+    border-radius: 50%;
+}
+
+#venus img{
+    position: fixed;
+    top: 46%;
+    left: 60%;
+    width: 4vw;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 50%;
+}
+#earth img{
+    position: fixed;
+    top: 40%;
+    left: 65%;
+    width: 4vw;
+    padding: 10px;
+    border: 1px white solid;
+    border-radius: 50%;
+} */
+
+#mars img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}
+#jupiter img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}
+#saturn img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}
+#uranus img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}
+#neptune img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}
+#pluto img{
+    position: fixed;
+    top: 48%;
+    left: 43%;
+    width: 0vw;
+}

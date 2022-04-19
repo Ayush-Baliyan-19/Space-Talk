@@ -1,0 +1,24 @@
+.cpanel.yml
+*config.php
+upload/*
+enviornment.php
+.DS_Store
+forms/responsesfile/*
+.htaccess
+
+# react
+/build
+node_modules
+package-lock.json
+.eslintcache
+*.lock
+.env
+admin/.DS_Store
+assets/.DS_Store
+.vscode/
+debug.log
+/package.json
+mail-testing
+
+# composer
+vendor
